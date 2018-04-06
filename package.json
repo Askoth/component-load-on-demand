@@ -1,0 +1,19 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Demo of dynamic list of modules used in webpack on demand of html",
+  "main": "index.js",
+  "author": "Marcelo Oliveira <askoth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "almond": "^0.3.3",
+    "extract-loader": "^2.0.1",
+    "file-loader": "^1.1.11",
+    "html-loader": "^0.5.5",
+    "webpack": "^4.5.0",
+    "webpack-merge": "^4.1.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
